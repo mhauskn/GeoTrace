@@ -1,0 +1,54 @@
+8
+
+dir
+7
+file:///home/epn/svn/geoTrace/trunk/images
+file:///home/epn/svn
+
+
+
+2008-02-21T03:32:08.270828Z
+1
+epn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+86d326c7-9606-49cb-960e-3645243fde27
+
+world-map.gif
+file
+
+
+
+
+2008-02-21T03:33:00.000000Z
+3f4fe659f9cb22bc5b8754bc41cc3cba
+2008-02-21T03:32:08.270828Z
+1
+epn
+has-props
+
+map_off.gif
+file
+
+
+
+
+2008-02-21T03:33:00.000000Z
+8c61aa5ecb7d284c6c40cf02addd9858
+2008-02-21T03:32:08.270828Z
+1
+epn
+has-props
+

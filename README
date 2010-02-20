@@ -1,0 +1,1 @@
+This is an early project of mine meant to visualize the geographical locations of each hop that your packets go through on route to their final destination. Essentially it uses an ip2location database in conjunction with traceroute to give this information.
